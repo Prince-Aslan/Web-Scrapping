@@ -8,7 +8,7 @@ This project involves downloading, processing, and saving natural gas price data
 
 - `pandas`: For data manipulation and analysis.
 - `requests`: For downloading files from a URL.
-   `BeautifulSoup`: For downloading files from a URL. BeautifulSoup
+   `BeautifulSoup`: For web scraping files from a URL. 
 
 ## Step-by-Step Process
 
